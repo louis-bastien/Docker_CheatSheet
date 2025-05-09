@@ -94,14 +94,6 @@
 
 ---
 
-## 🛠️ TIPS
-
-- Compose automatically sets up a **network** so services can talk to each other by **service name** (e.g., `db`, `web`).
-- Volumes and ports can be managed directly from the `docker-compose.yml` file.
-- You can use `.env` files for configuration.
-
----
-
 ## 📁 FILES
 
 | File Name              | Purpose                                 |
